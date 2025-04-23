@@ -1,0 +1,11 @@
+Thread:- Every thread has a priority that helps the operating system determine the order in which the threads are scheduled. Java thread properties are in the range between 1 to 10 or it can be prioritize by using a thread constant.
+a) MIN_PRIORITY -------- 1
+b)NORM_PRIORITY --------5
+c)MAX_PRIORITY ---------10
+
+--Thread with higher priorities are more important to a program and should be allocated processor time before the low priority thread.
+--The methods in the thread class getPriority and setPriority are used to get and set the priorities of the threads respectively. 
+
+(-) Thread synchronization (VVIMP)
+------>
+
